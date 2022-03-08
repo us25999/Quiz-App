@@ -1,0 +1,927 @@
+[
+    {
+        "1": "Q.1 Which crop is sown on the largest area in India?",
+        "2": "Q.2 Eritrea, which became the 182nd member of the United Nations in 1993, is on the continent of ",
+        "3": "Q.3 Which of the following personalities gave ‘The Laws of Heredity’",
+        "4": "Q.4 Garampani sanctuary is located at ",
+        "5": "Q.5 Who is known as “The Saint of Gutters”?",
+        "6": "Q.6 For which of the following disciplines is Nobel Prize awarded?",
+        "7": "Q.7 Grand Central Terminal, Park Avenue, New York is the world's",
+        "8": "Q.8 Name the person who was also known as Deshbandhu.",
+        "9": "Q.9 FFC stands for ",
+        "10":"Q.10 Which of the following national parks is not listed in a UNESCO World Heritage site?",
+        "11":"Q.11 The capital of Uttarakhand is….",
+        "12":"Q.12 Fastest shorthand writer was",
+        "13":"Q13 In which state has the largest area?",
+        "14":"Q.14 Geet Govind is a famous creation of ……",
+        "15":"Q.15 Galileo was an Italian astronomer wh",
+        "16":"Q.16 The Maratha and The Kesri were the two main newspapers which were started by the following people?",
+        "17":"Q.17 When did the World Trade Organization come into existence?",
+        "18":"Q.18 Exposure to sunlight helps a person to improve his health because",
+        "19":"Q.19 The Lucknow session of Indian National Congress that took place in 1916 was presided by ?",
+        "20":"Q.20 In which year did the Cabinet Mission arrived in India?",
+        "21":"Q.21 Golf player Vijay Singh belongs to which country?",
+        "22":"Q.22 The popular Kumaoni folk singer “Pappu Karki” has passed away. He was releted to which state?",
+        "23":"Q.23 Panchayati Raj belongs to…",
+        "24":"Q.24 When did the first Afghan war happen?",
+        "25":"Q.25 Which state has the largest population?",
+        "26":"Q.26 Whose creations are Harshcharita and KadamBari",
+        "27":"Q.27 Gulf cooperation council was originally formed by" ,
+        "28":"Q.28 When the India launched Targeted Public Distribution System?",  
+        "29":"Q.29 When was the war of american independence?",
+        "30":"Q.30 For Olympic and World tournaments, the basketball court has dimensions",
+        "31":"Q.31 In which city the India’s first-ever national police museum will be established?",
+        "32":"Q.32 Panini was……",
+        "33":"Q.33 The winners of which game are honored: Federation Cup, World Cup, Alvin International Trophy and Challenge Cup?",
+        "34":"Q.34 Under which of the following trees, Buddha got enlightment?",
+        "35":"Q.35 Which of the following is the world’s largest and deepest ocean?",
+        "36":"Q.36 World Red Cross and Red Crescent Day are celebrated every year",
+        "37":"Q.37 National emergency arising out of war, armed rebellion or external aggression, belongs to which of the following articles?",
+        "38":"Q.38 The literacy rate of India is…",
+        "39":"Q.39 Famous sculptures depicting the art of love built sometime between 950 and 1050 AD.",
+        "40":"Q.40 In which state is the Elephant Falls located?",
+        "41":"Q.41 Which Indian state has the least literacy rate?",
+        "42":"Q.42 Are the Gravity Setting Chambers used in industries for removal?",
+        "43":"Q.43 Which of the following instruments is used to measure Soil Water Tension?",
+        "44":"Q.44 When was SAARC formed?",
+        "45":"Q.45 Is the judiciary of the Guwahati High Court?",
+        "46":"Q.46 Which of the following personalities is considered to be the originator of the Sankhya philosophy?",
+        "47":"Q.47 Which of the following is not a member of the European Union?",
+        "48":"Q.48 Friction can be reduced by changing from",
+        "49":"Q.49 India’s largest petrochemical complex is located at?",
+        "50":"Q.50 Where is the headquarters of ASEAN located?",
+        "51":"Q.51 The fire temple is the place of worship of which of the following religions?",
+        "52":"Q.52 Who among the following celebrities of India is the sole winner of a special Oscar in the history of Indian cinema?",
+        "53":"Q.53 This river is also called Ganga of South?",
+        "54":"Q.54 Film and TV institute of India is located at",
+        "55":"Q.55 Who won the Nobel Prize for Literature in 1913?",
+        "56":"Q.56 Where is ‘Dudhsagar Waterfall’ in India?",
+        "57":"Q.57 Did Georgia, Uzbekistan and Turkmenistan become members of the United Nations?",
+        "58":"Q.58 Which of the following newspapers was founded by Mahatma Gandhi in South Africa in 1903?",
+        "59":"Q.59 What is the height of Siachen Glacier in the eastern Karakoram range in the Himalayan Mountains?",
+        "60":"Q.60 Guru Gobind Singh was",
+        "61":"Q.61 Which fundamental right in Indian constitution prohibits trafficking, forced labor and working of children below 14 years",
+        "62":"Q.62 Which space agency sends 104 satellites in a single mission in 2017?",
+        "63":"Q.63 When did Germany sign a ceasefire treaty when World War I ended",
+        "64":"Q.64 Who among the following received the Bharat Ratna award before becoming the President of India?",
+        "65":"Q.65 When cycling federation of India was established?",
+        "66":"Q.66 During World War II, when did Germany attack France?",
+        "67":"Q.67 According to Buddhist traditions, who was Charioteer of Buddha?",
+        "68":"Q.68 The first cricket club of India was established?",
+        "69":"Q.69 Frederick Sanger is a two-time recipient of the Nobel Prize for..",
+        "70":"Q.70 Which of the following was the author of Economist?",
+        "71":"Q.71 When India national football team was established?",
+        "72":"Q.72 Ozone layer prohibits",
+        "73":"Q.73 Which of the following ruler is known for Junagadh rock inscription?",
+        "74":"Q.74 Which bank changed its name and IFSC code for many of its branches?",
+        "75":"Q.75 Eugenics is the study of",
+        "76":"Q.76 Chauri Chaura incident took place in 1922 and gained prominence in India’s national movement. Can you identify the state in which Chauri Chaura is located?",
+        "77":"Q.77 What is the use of ‘India Quake’ App launched by the Indian Government in 2017?",
+        "78":"Q.78 Euclid was…",
+        "79":"Q.79 Which of the following is a feature of federal Government?",
+        "80":"Q.80 Who was the first speaker of Lok Sabha?",
+        "81":"Q.81 Is related to ecology?",
+        "82":"Q.82 For the first time in the history of India, Mr. H. J. Kania Which of the following positions did hold?",
+        "83":"Q.83 Which of the following represents the number of nations of the Non-Aligned Movement?",
+        "84":"Q.84 What causes filariasis?",
+        "85":"Q.85 which state is the main language Khasi?",
+        "86":"Q.86 Which of the following personalities is known as the father of economics?",
+        "87":"Q.87 When was Goa Shipyard Limited (GSL) established?",
+        "88":"Q.88 Which of the following is the capital of Ethiopia?",
+        "89":"Q.89 Mount Etna is a famous volcano which is located?",
+        "90":"Q.90 DRDL stands for",
+        "91":"Q.91 Which is the largest coffee producing state of India?",
+        "92":"Q.92 Where is the Tungabhadra sanctuary located?",
+        "93":"Q.93 Who was the first Indian Army Chief of the Indian Army?",
+        "94":"Q.94 Who is the first non-Indian to receive the Bharat Ratna?",
+        "95":"Q.95 The headquarters of Reserve Bank of India is…",
+        "96":"Q.96 GATT (General Agreement on Tariffs and Trade) is",
+        "97":"Q.97 What is the state flower of Haryana?",
+        "98":"Q.98 Jana Gana Mana was accepted as the National Anthem of India by the Constituent Assembly of India, in which of the following years?",
+        "99":"Q.99 Coral reefs in India can be found in",
+        "100":"Q.100 When did Mother Teresa win the Nobel Peace Prize?",
+        "101":"Q.101 Which Indian state has its maximum area under the forest cover?"
+        
+       
+        
+},
+
+    {
+        "1": {
+            "a": "Rice",
+            "b": "Wheat",
+            "c": "Sugarcane",
+            "d": "Maize"
+        },
+        "2": {
+            "a": "Asia",
+            "b": "Africa",
+            "c": "Europe",
+            "d": "Australia"
+        },
+        "3": {
+            "a": "Robert Hook",
+            "b": "G.J. Mendel",
+            "c": "Charles Darwin",
+            "d": "William Harvey"
+        },
+        "4": {
+            "a": "junagarh,Gujarat",
+            "b": "Diphu, Assam",
+            "c": "Kohima, Nagaland",
+            "d": "Gangtok, Sikkim"
+
+            
+        },
+        "5": {
+            "a": "Baba Amte",
+            "b": "Mother Teresa",
+            "c": "Anna Hazare",
+            "d": "None Of these"
+        },
+        "6": {
+            "a": "Physics and Chemistry",
+            "b": "Physiology or medicine",
+            "c": "Literature,Peace and Economics",
+            "d": "All of the above"
+        },
+        "7": {
+            "a": "Largest railway station",
+            "b": "Highest railway station",
+            "c": "Longest railway station",
+            "d": "None of the above"
+        },
+        "8": {
+            "a": "S.Radhakrishnan",
+            "b": "G.k.Gokhale",
+            "c": "Chittaranjan Das",
+            "d": "Madan Mohan Malviya"
+        },
+        "9": {
+            "a": "Foregin Finance Corporation",
+            "b": "Film Finance Corparation",
+            "c": "Federation of Football Council",
+            "d": "None Of the above"
+        },
+        "10": {
+            "a": "Kazirange",
+            "b": "Keoladeo",
+            "c": "Sundarbans",
+            "d": "Kanha"
+        },
+        "11":{
+            "a":"Masoorie",
+            "b":"Dehra Dun",
+            "c":"Nainital",
+            "d":"Nane of these"
+
+        },
+        "12":{
+            "a":"Dr. G.(D) Bist",
+            "b":"Bist (D) Tata",
+            "c":"J.M. Tagore",
+            "d":"Khudada Khan"
+
+        },
+        "13":{
+            "a":"Maharashtra ",
+            "b":"Madhya Pradesh",
+            "c":"Uttar Pradesh",
+            "d":"Rajasthan"
+
+        },
+        "14":{
+            "a":"Bana Bhatt ",
+            "b":"Kalidas",
+            "c":"Jayadev",
+            "d":"BHarat Muni"
+
+        },
+        "15":{
+            "a":"developed the telescope ",
+            "b":"discovered four satellites of Jupiter",
+            "c":"discovered that the movement of pendulum produces a regular time measurement",
+            "d":"All of the above"
+
+
+           
+        },
+        "16":{
+            "a":"Lala Lajpat Rai ",
+            "b":"Gopal Krishna Gokhale",
+            "c":"Bal Gangadhar Tilak",
+            "d":"Madan Mohan Malviya"
+
+        },
+        "17":{
+            "a":"1992",
+            "b":"1993",
+            "c":"1994",
+            "d":"1995"
+
+        },
+        
+        "18":{
+            "a":"the infrared light kills bacteria in the body ",
+            "b":"resistance power increases",
+            "c":"the pigment cells in the skin get stimulated and produce a healthy tan",
+            "d":"the ultraviolet rays convert skin oil into Vitamin D"
+            
+
+        },
+        "19":{
+            "a":"Rashbihari Ghosh",
+            "b":"Ambika Charan Majumdar",
+            "c":"Bhupendra Nath Bose",
+            "d":"None of the above"
+
+        },
+        "20":{
+            "a":"1942 ",
+            "b":"1943",
+            "c":"1945",
+            "d":"1946"
+
+        },
+        "21":{
+            "a":"USA",
+            "b":"Fiji",
+            "c":"India",
+            "d":"UK"
+
+        },
+        "22":{
+            "a":"Jammu & Kashmir",
+            "b":"Himachal Pradesh",
+            "c":"Uttarakhand",
+            "d":"Assam"
+
+        },
+        "23":{
+            "a":"Residual list",
+            "b":"Concurrent list",
+            "c":"State list",
+            "d":"Union list"
+
+        },
+        "24":{
+            "a":"1839",
+            "b":"1843",
+            "c":"1833",
+            "d":"1848"
+
+        },
+        "25":{
+            "a":"Uttar Pradesh",
+            "b":"Maharastra",
+            "c":"Bihar",
+            "d":"Andra Pradesh"
+
+        },
+        "26":{
+            "a":"Kalhan",
+            "b":"Panini",
+            "c":"Bana Bhatta",
+            "d":"Patanjali"
+
+        },
+        "27":{
+            "a":"Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates",
+            "b":"Second World Nations",
+            "c":"Third World Nations",
+            "d":"Fourth World Nations"
+
+        },
+        "28":{
+            "a":"1995",
+            "b":"1996",
+            "c":"1997",
+            "d":"1998"
+
+        },
+        "29":{
+            "a":"1770",
+            "b":"1772",
+            "c":"1774",
+            "d":"1776"
+
+        },
+        "30":{
+            "a":"26 m x 14 m",
+            "b":"28 m x 15 m",
+            "c":"27 m x 16 m",
+            "d":"28 m x 16 m"
+
+        },
+        "31":{
+            "a":"Chennai",
+            "b":"Delhi",
+            "c":"Nagpur",
+            "d":"Kalkata"
+
+        },
+        "32":{
+            "a":"a Greek philosopher",
+            "b":"an Indian astronomer and famous mathematician",
+            "c":"a Sanskrit grammarian of Vedic times",
+            "d":"great poet of ancient times."
+
+        },
+        "33":{
+            "a":"Tennis",
+            "b":"Volleyball",
+            "c":"Basketball",
+            "d":"Cricket"
+
+        },
+        "34":{
+            "a":"Ficus benghalensis",
+            "b":"Ficus religiosa",
+            "c":"Ficus microcarpa",
+            "d":"Ficus elastica"
+
+        },
+        "35":{
+            "a":"Arctic",
+            "b":"Atlantic",
+            "c":"Pacific",
+            "d":"Indian"
+
+        },
+        "36":{
+            "a":"May 8",
+            "b":"May 18",
+            "c":"June 8",
+            "d":"June 18"
+
+        },
+        "37":{
+            "a":"Article 280",
+            "b":"Article 352",
+            "c":"Article 356",
+            "d":"Article 370"
+
+        },
+        "38":{
+            "a":"57.86%",
+            "b":"61.34%",
+            "c":"63.98%",
+            "d":"65.38%"
+
+        },
+        "39":{
+            "a":"Khajuraho temples",
+            "b":"Jama Masjid",
+            "c":"Sun temple",
+            "d":"Mahabalipuram temples"
+
+        },
+        "40":{
+            "a":"Mizoram",
+            "b":"Orissa",
+            "c":"Manipur",
+            "d":"Meghalaya"
+
+        },
+        "41":{
+            "a":"Bihar",
+            "b":"Rajasthan",
+            "c":"Arunachal Pradesh",
+            "d":"Orissa"
+
+        },
+        "42":{
+            "a":"SOx",
+            "b":"NOx",
+            "c":"suspended particulate matter",
+            "d":"CO"
+
+        },
+        "43":{
+            "a":"Photometer",
+            "b":"Pyrometer",
+            "c":"Psychrometer",
+            "d":"Tensiometer"
+
+        },
+        "44":{
+            "a":"1982",
+            "b":"1984",
+            "c":"1985",
+            "d":"1986"
+
+        },
+        "45":{
+            "a":"Nagaland",
+            "b":"Arunachal Pradesh",
+            "c":"Assam",
+            "d":"All of the above"
+
+        },
+        "46":{
+            "a":"Bharat Muni",
+            "b":"Kapil Muni",
+            "c":"Adi Shankaracharya",
+            "d":"Agastya Rishi"
+
+        },
+        "47":{
+            "a":"Greece",
+            "b":"Finland",
+            "c":"Norway",
+            "d":"United Kingdom"
+
+        },
+        "48":{
+            "a":"sliding to rolling",
+            "b":"rolling to sliding",
+            "c":"potential energy to kinetic energy",
+            "d":"dynamic to static"
+
+        },
+        "49":{
+            "a":"Gujarat",
+            "b":"Maharastra",
+            "c":"Rajasthan",
+            "d":"Assam Hide"
+
+        },
+        "50":{
+            "a":"Male",
+            "b":"Kathmandu",
+            "c":"Jakarta",
+            "d":"Kuala lumpur"
+
+        },
+        "51":{
+            "a":"Taoism",
+            "b":"Judaism",
+            "c":"Zoroastrianism(Parsi Religion)",
+            "d":"Shintoism"
+
+        },
+        "52":{
+            "a":"Mrinal Sen",
+            "b":"Shyam Bengal",
+            "c":"Satyajit Ray",
+            "d":"Mira Nair"
+
+        },
+        "53":{
+            "a":"Godavari",
+            "b":"Krishna",
+            "c":"Cauvery",
+            "d":"None Of these"
+
+
+        },
+        "54":{
+            "a":"Pune(Maharashtra)",
+            "b":"Rajkot(Gujarat)",
+            "c":"Pimpi(Maharashtra)",
+            "d":"Perambur(Tamilnadu)"
+
+        },
+        "55":{
+            "a":"Debendranath Tagore",
+            "b":"Rabindranath Tagore",
+            "c":"Mohammad Lqbal",
+            "d":"Mirza Galib"
+
+        },
+        "56":{
+            "a":"At the border of the Indian state of Goa and Karnataka",
+            "b":"in Karnataka",
+            "c":"in Gujarat",
+            "d":"in Rajasthan"
+
+        },
+        "57":{
+            "a":"1991",
+            "b":"1992",
+            "c":"1993",
+            "d":"1994"
+
+        },
+        "58":{
+            "a":"Indian Opinion",
+            "b":"Harijan",
+            "c":"Indian Speaker",
+            "d":"India News"
+
+        },
+        "59":{
+            "a":"5400 Metre",
+            "b":"6400 Metre",
+            "c":"5600 Metre",
+            "d":"8500 Metre"
+
+        },
+        "60":{
+            "a":"the 10th Guru of the Sikhs",
+            "b":"the 10th Guru of the Sikhs",
+            "c":"author of Dasam Granthr",
+            "d":"All the above"
+
+        },
+        "61":{
+            "a":"Right to Equality",
+            "b":"Right to Freedom",
+            "c":"Right against Exploitation ",
+            "d":"Right to Freedom of Religion"
+        },
+         "62":{
+            "a":"ISRO",
+            "b":"NASA",
+            "c":"Russian Agency ",
+            "d":"China space Agency"
+
+            
+
+        },
+        "63":{
+            "a":"January 19, 1918",
+            "b":"May 30, 1918",
+            "c":"November 11, 1918",
+            "d":"February 15, 1918"
+
+        },
+        "64":{
+            "a":"R.Venkataraman",
+            "b":"R.Venkataraman",
+            "c":"Dr.Zakir Hussian",
+            "d":"W.Giri"
+        },
+        "65":{
+            "a":"1946",
+            "b":"1846",
+            "c":"1947",
+            "d":"1952"
+
+        },
+        "66":{
+            "a":"1940",
+            "b":"1941",
+            "c":"1942",
+            "d":" 1943"
+
+        },
+        "67":{
+            "a":"Channa ",
+            "b":"Kanthaka",
+            "c":"Devdatta",
+            "d":"Chunda Hide"
+
+        },
+        "68":{
+            "a":"1792 In Calcutta",
+            "b":"1793 in Delhi",
+            "c":"1892 in Calcutta",
+            "d":"1992 in Delhi"
+
+        },
+        "69":{
+            "a":"Chemistry in 1958 and 1980",
+            "b":"Physics in 1956 and 1972",
+            "c":"Chemistry in 1954 and Peace in 1962",
+            "d":"Physics in 1903 and Chemistry in 1911"
+
+        },
+        "70":{
+            "a":"Kalhan",
+            "b":"Visakhadatta",
+            "c":"Bana Bhatta",
+            "d":"Chanakya"
+
+        },
+        "71":{
+            "a":"1937",
+            "b":"1938",
+            "c":"1940",
+            "d":"1952"
+
+        },
+        "72":{
+            "a":"Visible light",
+            "b":"Infrared radiation",
+            "c":"X-rays and gamma rays",
+            "d":"Ultraviolet radiation"
+
+        },
+        "73":{
+            "a":"Rudradaman",
+            "b":"Jivadaman",
+            "c":"Damajadasri",
+            "d":"Jayadaman"
+
+        },
+        "74":{
+            "a":"SBI",
+            "b":"Canara Bank",
+            "c":"Axis Bank",
+            "d":"Punjab National Bank"
+
+        },
+        "75":{
+            "a":"Altering human begings by changing their genetic components",
+            "b":"People of European origin",
+            "c":"Different races of mankind",
+            "d":"genetic of plants "
+
+        },
+        "76":{
+            "a":"Maharashtra",
+            "b":"Uttar Pradesh",
+            "c":"Rajasthan",
+            "d":"GUjarat"
+
+        },
+        "77":{
+            "a":"For the dissemination of earthquake parameters to the user community in a timely manner for their safety",
+            "b":"For Flood",
+            "c":"For Tsunami",
+            "d":"For Natural disaster"
+
+        },
+        "78":{
+            "a":"Greek mathematician",
+            "b":"Contributor to the use of deductive principles of logic as the basis of geometry",
+            "c":"Propounded the geometrical theorems",
+            "d":"All of the above"
+
+        },
+        "79":{
+            "a":"Supremacy of Parliament",
+            "b":"Supremacy of judiciary",
+            "c":"Division of powers between federal and state Government",
+            "d":"Single citizenship"
+
+        },
+        "80":{
+            "a":"K.M. Munshi",
+            "b":"(C)(D) Deshmukh",
+            "c":"G.V. Mavalankar",
+            "d":"H.J. Kania"
+
+        },
+        "81":{
+            "a":"Birds",
+            "b":"Cell formation",
+            "c":"Relation between organisms and their environment",
+            "d":"Tissues"
+
+        },
+        "82":{
+            "a":"Chief Justice of the Supreme Court of India",
+            "b":"Attorney-General of India",
+            "c":"Solicitor-General of India",
+            "d":"None of them"
+
+        },
+        "83":{
+            "a":"54",
+            "b":"75",
+            "c":"93",
+            "d":"118"
+
+        },
+        "84":{
+            "a":"Bacteria",
+            "b":"Mosquito",
+            "c":"Protozoa",
+            "d":"Virus"
+
+        },
+        "85":{
+            "a":"Mizoram",
+            "b":"Nagaland",
+            "c":"Meghalaya",
+            "d":"Tripura"
+
+        },
+        "86":{
+            "a":"J.M. Keynes",
+            "b":"Adam Smith",
+            "c":"Abraham Maslow",
+            "d":"J.K. Galbraith"
+
+        },
+        "87":{
+            "a":"1958",
+            "b":"1957",
+            "c":"1956",
+            "d":"1955"
+
+        },
+        "88":{
+            "a":"Abuja",
+            "b":"Dar es Salaam",
+            "c":"Addis Ababa",
+            "d":"Harare"
+
+        },
+        "89":{
+            "a":"Argentina",
+            "b":"Italy",
+            "c":"Mexico",
+            "d":"Philipines"
+
+        },
+        "90":{
+            "a":"Defence Research and Development Laboratary",
+            "b":"Department of Research and Development Laboratory",
+            "c":"Differential Research and Documentation Laboratary",
+            "d":"None of the above"
+        },
+        "91":{
+            "a":"Kerala",
+            "b":"Tamil Nadu",
+            "c":"Karnataka",
+            "d":"Arunachal Pradesh"
+
+        },
+        "92":{
+            "a":"Madhya Pradesh",
+            "b":"Uttar Pradesh",
+            "c":"Karnataka",
+            "d":"West Bengal"
+
+        },
+        "93":{
+            "a":"Gen. K.M. Cariappa",
+             "b":"Vice-Admiral R.D Katari",
+            "c":"Gen. Maharaja Rajendra Singhji",
+            "d":"None of the above"
+
+        },
+        "94":{
+            "a":"Martin Luther King",
+            "b":"Mother Teresa",
+            "C":"Khan Abdul Ghaffar Khan",
+            "d":"Aubin Mehta"
+
+        },
+        "95":{
+            "a":"Kolkata",
+            "b":"New Delhi",
+            "c":"Mumbai",
+            "d":"Chennai"
+        },
+        "96":{
+            "a":"international agreement signed in 1947 between non-communist nations with the object of encouraging international trade unobstructed by tariff barriers",
+            "b":"agreement which seeks to achieve its aim by arranging and encouraging bargaining with trade concessions between members",
+            "c":"Both (A) and B",
+            "d":"None of the above"
+
+        },
+        "97":{
+            "a":"Lotus",
+            "b":"Rhododendron",
+            "c":"Golden shower",
+            "d":"Not declared"
+
+        },
+        "98":{
+            "a":"1950",
+            "b":"1949",
+            "c":"1948",
+            "d":"1947"
+
+        },
+        "99":{
+            "a":"the coast of Orissa",
+            "b":"Waltair",
+            "c":"Rameshwaram",
+            "d":"Trivandrum"
+
+        },
+        "100":{
+            "a":"1975",
+            "b":"1979",
+            "c":"1981",
+            "d":"1982"
+
+        },
+        "101":{
+            "a":"Maharashtra",
+            "b":"Madhya Pradesh",
+            "c":"Arunachal Pradesh",
+            "d":"Kerala"
+
+        }
+       
+        
+        
+
+    },
+    {
+        "1": "Rice",
+        "2": "Africa",
+        "3": "G.J. Mendel",
+        "4": "Diphu, Assam",
+        "5": "Mother Teresa",
+        "6": "All of the above",
+        "7": "Largest railway station",
+        "8": "Chittaranjan Das",
+        "9": "Film Finance Corporation",
+        "10": "Kanha",
+        "11": "Dehra Dun",
+        "12": "Dr. G.(D) Bist",
+        "13": "Rajasthan",
+        "14": "Jayadev",
+        "15": "All of the above",
+        "16": "All of the above",
+        "17": "(D) 1995",
+        "18": "the ultraviolet rays convert skin oil into Vitamin D",
+        "19": "Ambika Charan Majumdar",
+        "20": "1946",
+        "21": "Fiji",
+        "22": "Assam",
+        "23": "State list",
+        "24": "1839",
+        "25": "Uttar Pradesh",
+        "26": "Bana Bhatta",
+        "27": "Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates",
+        "28": "1997",
+        "29": "(D) 1776",
+        "30": "28 m x 15 m",
+        "31": "Delhi",
+        "32": "a Sanskrit grammarian of Vedic timesAnswer: (C)",
+        "33": "Volleyball",
+        "34": "Ficus religiosa",
+        "35": "Pacific",
+        "36": "May 8",
+        "37": "Article 352",
+        "38": "65.38%",
+        "39": "Mahabalipuram temples",
+        "40": "Meghalaya",
+        "41": "Bihar",
+        "42": "suspended particulate matter",
+        "43": "Tensiometer",
+        "44": "(C) 1985",
+        "45": "All of the above",
+        "46": "Kapil Muni",
+        "47": "Norway",
+        "48": "sliding to rolling",
+        "49": "Gujarat",
+        "50": "Jakarta",
+        "51": "Zoroastrianism(Parsi Religion)",
+        "52": "Satyajit Ray",
+        "53": "Cauvery",
+        "54": "Pune(Maharashtra)",
+        "55": "Rabindranath Tagore",
+        "56": "At the border of the Indian state of Goa and Karnataka",
+        "57": "1992",
+        "58": "Indian Opinion",
+        "59": "5400 Metre",
+        "60": "All the above",
+        "61": "Right against Exploitation",
+        "62": "ISRO",
+        "63": "November 11, 1918",
+        "64": "Dr.Zakir Hussian",
+        "65": "1946",
+        "66": "1940",
+        "67": "Channa",
+        "68": "1792 In Calcutta",
+        "69": "Chemistry in 1958 and 1980",
+        "70": "Chanakya",
+        "71": "1937",
+        "72": "Ultraviolet radiation",
+        "73": "Rudradaman I",
+        "74": "SBI",
+        "75": "altering human beings by changing their genetic components",
+        "76": "Uttar Pradesh",
+        "77": "For the dissemination of earthquake parameters to the user community in a timely manner for their safety",
+        "78": "All of the above",
+        "79": "Division of powers between federal and state Government",
+        "80": "G.V. Mavalankar",
+        "81": "Relation between organisms and their environment",
+        "82": "Chief Justice of the Supreme Court of India",
+        "83": "118",
+        "84": "Mosquito",
+        "85": "Meghalaya",
+        "86": "Adam Smith",
+        "87": "1957",
+        "88": "Addis Ababa",
+        "89": "Italy",
+        "90": "Defence Research and Development Laboratary",
+        "91": "Karnataka",
+        "92": "Karnataka",
+        "93": "Gen. K.M. Cariappa",
+        "94": "Khan Abdul Ghaffar Khan",
+        "95": "Mumbai",
+        "96": "Both (A) and B",
+        "97": "Lotus",
+        "98": "1950",
+        "99": "Rameshwaram",
+        "100": "1979",
+        "101": "Arunachal Pradesh"
+        
+        
+        
+        
+
+        
+    }
+    
+]
